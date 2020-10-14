@@ -1,2 +1,1 @@
-# NLP-core
-Here are some core concepts of NLP
+<h1 align = "center">NLP Core</h1>
